@@ -77,6 +77,6 @@ El modelo logra una precisión de aproximadamente 99% en el conjunto de prueba, 
 Este proyecto demuestra cómo implementar una red neuronal convolucional para resolver un problema de clasificación de imágenes usando TensorFlow y Keras. La integración con Gradio permite probar el modelo de manera interactiva, y Netron facilita la inspección de la arquitectura del modelo. Este enfoque es ideal para tareas de clasificación de imágenes y demuestra la potencia de las CNNs en problemas de visión por computadora.
 
 ## Contacto
-Luna Outerelo Fernández.
-Email: lunaouterelo9@gmail.com
-Linkedin: https://www.linkedin.com/in/luna-outerelo-4414a0192/
+- Luna Outerelo Fernández.
+- Email: lunaouterelo9@gmail.com
+- Linkedin: https://www.linkedin.com/in/luna-outerelo-4414a0192/
